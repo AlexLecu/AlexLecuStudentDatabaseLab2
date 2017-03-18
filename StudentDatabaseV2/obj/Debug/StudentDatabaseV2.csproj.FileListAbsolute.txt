@@ -1,0 +1,22 @@
+c:\users\lecua\onedrive\documente\visual studio 2015\Projects\StudentDatabaseV2\StudentDatabaseV2\bin\Debug\StudentDatabaseV2.exe.config
+c:\users\lecua\onedrive\documente\visual studio 2015\Projects\StudentDatabaseV2\StudentDatabaseV2\bin\Debug\StudentDatabaseV2.exe
+c:\users\lecua\onedrive\documente\visual studio 2015\Projects\StudentDatabaseV2\StudentDatabaseV2\bin\Debug\StudentDatabaseV2.pdb
+c:\users\lecua\onedrive\documente\visual studio 2015\Projects\StudentDatabaseV2\StudentDatabaseV2\bin\Debug\MySql.Data.dll
+c:\users\lecua\onedrive\documente\visual studio 2015\Projects\StudentDatabaseV2\StudentDatabaseV2\bin\Debug\MySql.Data.xml
+c:\users\lecua\onedrive\documente\visual studio 2015\Projects\StudentDatabaseV2\StudentDatabaseV2\obj\Debug\StudentDatabaseV2.csprojResolveAssemblyReference.cache
+c:\users\lecua\onedrive\documente\visual studio 2015\Projects\StudentDatabaseV2\StudentDatabaseV2\obj\Debug\StudentDatabaseV2.Form1.resources
+c:\users\lecua\onedrive\documente\visual studio 2015\Projects\StudentDatabaseV2\StudentDatabaseV2\obj\Debug\StudentDatabaseV2.Properties.Resources.resources
+c:\users\lecua\onedrive\documente\visual studio 2015\Projects\StudentDatabaseV2\StudentDatabaseV2\obj\Debug\StudentDatabaseV2.csproj.GenerateResource.Cache
+c:\users\lecua\onedrive\documente\visual studio 2015\Projects\StudentDatabaseV2\StudentDatabaseV2\obj\Debug\StudentDatabaseV2.exe
+c:\users\lecua\onedrive\documente\visual studio 2015\Projects\StudentDatabaseV2\StudentDatabaseV2\obj\Debug\StudentDatabaseV2.pdb
+f:\PS\StudentDatabaseV2\StudentDatabaseV2\bin\Debug\StudentDatabaseV2.exe.config
+f:\PS\StudentDatabaseV2\StudentDatabaseV2\obj\Debug\StudentDatabaseV2.exe
+f:\PS\StudentDatabaseV2\StudentDatabaseV2\obj\Debug\StudentDatabaseV2.pdb
+f:\PS\StudentDatabaseV2\StudentDatabaseV2\bin\Debug\StudentDatabaseV2.exe
+f:\PS\StudentDatabaseV2\StudentDatabaseV2\bin\Debug\StudentDatabaseV2.pdb
+f:\PS\StudentDatabaseV2\StudentDatabaseV2\bin\Debug\MySql.Data.dll
+f:\PS\StudentDatabaseV2\StudentDatabaseV2\bin\Debug\MySql.Data.xml
+f:\PS\StudentDatabaseV2\StudentDatabaseV2\obj\Debug\StudentDatabaseV2.csprojResolveAssemblyReference.cache
+f:\PS\StudentDatabaseV2\StudentDatabaseV2\obj\Debug\StudentDatabaseV2.Form1.resources
+f:\PS\StudentDatabaseV2\StudentDatabaseV2\obj\Debug\StudentDatabaseV2.Properties.Resources.resources
+f:\PS\StudentDatabaseV2\StudentDatabaseV2\obj\Debug\StudentDatabaseV2.csproj.GenerateResource.Cache
